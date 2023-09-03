@@ -2,6 +2,10 @@
 {
     public class Post
     {
+        public Post()
+        {
+            
+        }
         public Post(DateTime date, string title, string content, int likes, List<Comment> comments)
         {
             Date = date;
@@ -23,7 +27,7 @@
             foreach (Comment comment in Comments)
             {
                 comentarios += $@"
-                                {comment}";
+                                {comment.Comments}";
             }
             return $@"
                       Date: {Date},

@@ -6,6 +6,10 @@ namespace curso_csharp_udemy.Services
 {
     public class WorkerService
     {
+        public WorkerService()
+        {
+            
+        }
         public void Handle()
         {
             Console.WriteLine("Department: ");

@@ -4,6 +4,10 @@ namespace curso_csharp_udemy.Services
 {
     public class PostService
     {
+        public PostService()
+        {
+            
+        }
         public void Handle()
         {
             var post1 = new Post(
