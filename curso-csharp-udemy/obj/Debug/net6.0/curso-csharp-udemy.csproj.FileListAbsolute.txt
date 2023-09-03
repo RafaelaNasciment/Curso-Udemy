@@ -1,0 +1,15 @@
+D:\github\curso-csharp-udemy\curso-csharp-udemy\bin\Debug\net6.0\curso-csharp-udemy.exe
+D:\github\curso-csharp-udemy\curso-csharp-udemy\bin\Debug\net6.0\curso-csharp-udemy.deps.json
+D:\github\curso-csharp-udemy\curso-csharp-udemy\bin\Debug\net6.0\curso-csharp-udemy.runtimeconfig.json
+D:\github\curso-csharp-udemy\curso-csharp-udemy\bin\Debug\net6.0\curso-csharp-udemy.dll
+D:\github\curso-csharp-udemy\curso-csharp-udemy\bin\Debug\net6.0\curso-csharp-udemy.pdb
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.csproj.AssemblyReference.cache
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.AssemblyInfoInputs.cache
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.AssemblyInfo.cs
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.csproj.CoreCompileInputs.cache
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.dll
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\refint\curso-csharp-udemy.dll
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.pdb
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\curso-csharp-udemy.genruntimeconfig.cache
+D:\github\curso-csharp-udemy\curso-csharp-udemy\obj\Debug\net6.0\ref\curso-csharp-udemy.dll
