@@ -1,15 +1,15 @@
-﻿namespace curso_csharp_udemy.Entities
+﻿namespace curso_csharp_udemy.Entities.Worker
 {
     internal class HourContract
     {
         public HourContract()
         {
-            
+
         }
 
         public HourContract(
-            DateTime date, 
-            double valuePerHour, 
+            DateTime date,
+            double valuePerHour,
             int hours)
         {
             Date = date;
@@ -18,7 +18,7 @@
         }
 
         public DateTime Date { get; set; }
-        public Double ValuePerHour { get; set; }
+        public double ValuePerHour { get; set; }
         public int Hours { get; set; }
 
 

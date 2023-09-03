@@ -1,6 +1,6 @@
 ﻿using curso_csharp_udemy.Entities.Enums;
 
-namespace curso_csharp_udemy.Entities
+namespace curso_csharp_udemy.Entities.Worker
 {
     public class Order
     {
@@ -10,7 +10,7 @@ namespace curso_csharp_udemy.Entities
 
         public override string ToString()
         {
-            return $"Id: {Id}, Purchase date: {DatePurchase}, status: {Status}"; 
+            return $"Id: {Id}, Purchase date: {DatePurchase}, status: {Status}";
         }
     }
 }
